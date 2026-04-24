@@ -1,0 +1,6 @@
+{
+  "name": "Sorig AI - Tibetan Medical Interpreter",
+  "description": "An AI-powered assistant that explains modern medical information in the Tibetan language, providing accessible health insights and wellness suggestions with cultural sensitivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-driven Translation", "Medical Report Explanation", "Tibetan Language Support"]
+}

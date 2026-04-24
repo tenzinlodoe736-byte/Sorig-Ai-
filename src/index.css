@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Tibetan:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-tibetan: "Noto Serif Tibetan", serif;
+  
+  --color-tibetan-red: #8B1D1D;
+  --color-tibetan-gold: #C5A059;
+  --color-tibetan-blue: #1E3A8A;
+}
+
+body {
+  background-color: #FDFCFB;
+  color: #2D2D2D;
+}
+
+.tibetan-text {
+  font-family: var(--font-tibetan);
+  line-height: 1.6;
+}
